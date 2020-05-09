@@ -1,0 +1,11 @@
+
+ 
+.guru-50 { background-position: -5px -0px; width: 64px; height: 62px; }
+.heart-monitor-50 { background-position: -5px -67px; width: 50px; height: 42px; }
+.weightlift-50 { background-position: -5px -114px; width: 50px; height: 50px; }
+.linkedinicon { background-position: -5px -169px; width: 27px; height: 25px; }
+.twittericon { background-position: -37px -169px; width: 26px; height: 21px; }
+.heart305 { background-position: -37px -195px; width: 23px; height: 20px; }
+.gym27 { background-position: -5px -199px; width: 20px; height: 20px; }
+.jump12 { background-position: -30px -220px; width: 16px; height: 26px; }
+.facebookicon { background-position: -5px -224px; width: 14px; height: 25px; }
