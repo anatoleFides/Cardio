@@ -306,13 +306,13 @@ body{
 }
 
 .service h2{
-	margin: 213px 0 10px 0;
+	margin: 300px 0 10px 0;
 	font-size: 48px;
 	font-family: "ProximaNova-Bold";
 	transform: skewY(4.7deg);
 }
 .service_p{
-	margin: 0 0 176px;
+	margin: 0 0 176px 0;
 	font-size: 24px;
 	transform: skewY(4.7deg);
 }
